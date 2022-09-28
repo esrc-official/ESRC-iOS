@@ -4,9 +4,13 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>.DS_Store</key>
+		<data>
+		pEOuJbh4HOoVX3uFCoaZbfPaZOU=
+		</data>
 		<key>Headers/ESRC_SDK_iOS-Swift.h</key>
 		<data>
-		pG2NBryH3Zt0z9qFQBVVirsH8gM=
+		sVwxkEXBNr0etTb8zVI+N84LpVk=
 		</data>
 		<key>Headers/ESRC_SDK_iOS.h</key>
 		<data>
@@ -18,7 +22,7 @@
 		</data>
 		<key>Headers/EsrcSDK_Heart_Wrapper.h</key>
 		<data>
-		iDVbwslmVAJvcgHZNUXih0TgoS0=
+		7GtO6J0Me/eigmFyGxIMA2xWrqc=
 		</data>
 		<key>Headers/EsrcSDK_MeasureEnv_Wrapper.h</key>
 		<data>
@@ -26,23 +30,27 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Al96O1aprDjIDZeGyeWPmrs2FX0=
+		/uuYF/h1GIgFPHSXeQZLa8dkZlM=
 		</data>
 		<key>Modules/ESRC_SDK_iOS.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		d6R+As82zBrkfUHGrN62vIZUpZA=
+		M9IfY1wM4124CoZzAe+lVhqLaPc=
+		</data>
+		<key>Modules/ESRC_SDK_iOS.swiftmodule/arm64-apple-ios.abi.json</key>
+		<data>
+		FSPnLbho3G+LL9smI3XgVOqBIQ4=
 		</data>
 		<key>Modules/ESRC_SDK_iOS.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		UOKL04kJSK56VNjhIRdSoBIzNWg=
+		Ib2/ITnZAkBswXTkbv7Tk54YuTA=
 		</data>
 		<key>Modules/ESRC_SDK_iOS.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		6JeM7+u7AIGQA2MfIBBMjLItHyU=
+		LMA03IWFv752ThHV6ptzfF7GGBs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		VRHILW5cFcG15rBp5r4oWFGsk6w=
+		D/uUTQVITHevqsasVNIDSUu7rrM=
 		</data>
 		<key>esrc_mobilenet_basic_facial_expression_recognition.tflite</key>
 		<data>
@@ -71,7 +79,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4VCmkaAb5cyW0gcTjrkiwycg6kaVM3qof6fzyWFsjQs=
+			wevfmVPHFjkuyYnukKqECeJLJ66MqonI6uhkxRd9Hng=
 			</data>
 		</dict>
 		<key>Headers/ESRC_SDK_iOS.h</key>
@@ -92,7 +100,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			48Fmj6KLMUWDe2nkcPLwlkRSmaOcmv5Eo6UnkjsB+U4=
+			GbWHgQ7EKYYRNBqasG5iW4BCP31EPll7Wn46gBRjtRc=
 			</data>
 		</dict>
 		<key>Headers/EsrcSDK_MeasureEnv_Wrapper.h</key>
@@ -106,28 +114,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7svuKpA4V35rl9gjPqlr4E/yCm9STt/yjz24Ctk37Ww=
+			kXGPpUcHkVwhif/zkxyCrsrMxb2mZI1skfT9TsGRNRc=
+			</data>
+		</dict>
+		<key>Modules/ESRC_SDK_iOS.swiftmodule/arm64-apple-ios.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KnRdWE4y6t4QM5zi5JDptPdHFgJy1Tku+7GLkZS2aNM=
 			</data>
 		</dict>
 		<key>Modules/ESRC_SDK_iOS.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			psuXCJRaAaMw4luAxTUkJLd5i6lISHHBLuTqT86s32I=
+			HcOkU/I+a29Af+z/ETwgXPwyCFboFxsQ/bH8ileQa2E=
 			</data>
 		</dict>
 		<key>Modules/ESRC_SDK_iOS.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FZ4v8Vc0X1nF2ZQ/ybXy8on/qg9dllvBTEub4LRIElY=
+			UnbaIumvVlpUOWTpRDL4Zo2VK6Phcw2Rp4sWysgGYoU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wNVok4pqBob3M2qwdozU/c7U2KLBeBZX5sku1ckv+RI=
+			BoNMz8Tyj4sLUxmWVpXxTl1+RQ35c1FDbz/k6JPRauQ=
 			</data>
 		</dict>
 		<key>esrc_mobilenet_basic_facial_expression_recognition.tflite</key>
