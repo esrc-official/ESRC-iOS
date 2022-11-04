@@ -231,7 +231,7 @@ class ViewController: UIViewController, AVCaptureVideoDataOutputSampleBufferDele
         // Start license timer (after 80s)
         self.licenseTimer = Timer.scheduledTimer(withTimeInterval: 80, repeats: false) { timer in
             // Show alert dialog
-            let alert = UIAlertController(title: "Alert", message: "If you want to use the ESRC SDK, please visit the homepage: https://www.esrc.co.kr", preferredStyle: .alert)
+            let alert = UIAlertController(title: "Alert", message: "If you want to use the ESRC SDK, please visit the homepage: http://www.esrc.co.kr", preferredStyle: .alert)
             let alertPositiveButton = UIAlertAction(title: "OK", style: .default) { action in
                 // Nothing
             }
