@@ -13,7 +13,7 @@
 
 ## Installation
 
-To use our iOS samples, you should first install [ESRC SDK for iOS](https://github.com/esrc-official/ESRC-SDK-iOS) 2.5.3 or higher on your system and should be received License Key by requesting by our email: **esrc@esrc.co.kr** <br /> 
+To use our iOS samples, you should first install [ESRC SDK for iOS](https://github.com/esrc-official/ESRC-SDK-iOS) 2.6.1 or higher on your system and should be received License Key by requesting by our email: **esrc@esrc.co.kr** <br /> 
 
 <br />
 
